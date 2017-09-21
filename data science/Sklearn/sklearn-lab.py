@@ -2,7 +2,7 @@
 """
 Spyder Editor
 
-This is a temporary script file.
+This is lab is to implement sklearn for the data science course.
 """
 
 #libraries to import
