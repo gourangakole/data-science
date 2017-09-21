@@ -193,7 +193,8 @@ print("")
 predic_y = dc_tree.predict(X_Test)
 print("")
 print(predic_y)
-
+print("")
 accu = accuracy_score(Y_Test, predic_y)
-
+print("")
+print("The accuracy score for the decision tree classifier")
 print(accu)
