@@ -131,7 +131,7 @@ print(knn_v1.fit(X, Y))
 
 print("")
 print("Now were going train our model again with different values ")
-test_x = [[4, 1, 2.1, 3.1],[1.2, 1, 4, 5]]
+test_x = [[1.2, 5, 2.1, 8.1],[2, 5.5, 2, 3]]
 pred_x = knn_v1.predict(test_x)
 print("")
 print(pred_x)
